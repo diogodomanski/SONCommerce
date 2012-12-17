@@ -1,3 +1,3 @@
 SONCommerce
 ===========
-- Olá novo mundo!
+- Olá mundo!
